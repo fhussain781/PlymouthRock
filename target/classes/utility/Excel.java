@@ -127,7 +127,7 @@ public class Excel {
 				}
 				System.out.println(columnData);
 			
-			System.out.println("File Read!\n");
+			System.out.println("File Read!\n Row: "+row+"\nColumn: "+ column);
 			
 			workbook.close();
 			

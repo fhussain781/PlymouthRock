@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto1_20_11_2020_04_24_00.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto1_20_11_2020_04_24_00.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip1_20_11_2020_04_24_02.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip1_20_11_2020_04_24_02.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote1_20_11_2020_04_24_04.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote1_20_11_2020_04_24_04.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address1_20_11_2020_04_24_07.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address1_20_11_2020_04_24_07.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext1_20_11_2020_04_24_09.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext1_20_11_2020_04_24_09.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto2_20_11_2020_04_24_23.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto2_20_11_2020_04_24_23.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip2_20_11_2020_04_24_24.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip2_20_11_2020_04_24_24.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote2_20_11_2020_04_24_27.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote2_20_11_2020_04_24_27.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address2_20_11_2020_04_24_30.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address2_20_11_2020_04_24_30.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext2_20_11_2020_04_24_33.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext2_20_11_2020_04_24_33.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/readExcel_20_11_2020_04_24_39.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/readExcel_20_11_2020_04_24_39.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49170" started-at="2020-11-20T16:23:51 EST" finished-at="2020-11-20T16:24:40 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49170" started-at="2020-11-20T16:23:51 EST" finished-at="2020-11-20T16:24:40 EST">
+      <class name="com.plymouthrock.homepage.Homepagetest">
+        <test-method status="PASS" signature="beforeTestReport()[pri:0, instance:com.plymouthrock.homepage.Homepagetest@3a5ed7a6]" name="beforeTestReport" is-config="true" duration-ms="114" started-at="2020-11-20T16:23:51 EST" finished-at="2020-11-20T16:23:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestReport -->
+        <test-method status="PASS" signature="init_Driver()[pri:0, instance:com.plymouthrock.homepage.Homepagetest@3a5ed7a6]" name="init_Driver" is-config="true" duration-ms="1156" started-at="2020-11-20T16:23:51 EST" finished-at="2020-11-20T16:23:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_Driver -->
+        <test-method status="PASS" signature="readExcel()[pri:0, instance:com.plymouthrock.homepage.Homepagetest@3a5ed7a6]" name="readExcel" duration-ms="47205" started-at="2020-11-20T16:23:52 EST" finished-at="2020-11-20T16:24:39 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto1_20_11_2020_04_24_00.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto1_20_11_2020_04_24_00.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip1_20_11_2020_04_24_02.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip1_20_11_2020_04_24_02.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote1_20_11_2020_04_24_04.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote1_20_11_2020_04_24_04.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address1_20_11_2020_04_24_07.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address1_20_11_2020_04_24_07.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext1_20_11_2020_04_24_09.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext1_20_11_2020_04_24_09.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto2_20_11_2020_04_24_23.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickedAuto2_20_11_2020_04_24_23.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip2_20_11_2020_04_24_24.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/EnterZip2_20_11_2020_04_24_24.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote2_20_11_2020_04_24_27.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/ClickGetQuote2_20_11_2020_04_24_27.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address2_20_11_2020_04_24_30.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/address2_20_11_2020_04_24_30.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext2_20_11_2020_04_24_33.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/clickNext2_20_11_2020_04_24_33.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- readExcel -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.plymouthrock.homepage.Homepagetest@3a5ed7a6]" name="afterMethod" is-config="true" duration-ms="671" started-at="2020-11-20T16:24:39 EST" finished-at="2020-11-20T16:24:40 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=readExcel status=SUCCESS method=Homepagetest.readExcel()[pri:0, instance:com.plymouthrock.homepage.Homepagetest@3a5ed7a6] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/readExcel_20_11_2020_04_24_39.png'><img src='/Users/bigtiki/eclipse-workspace/com.plymouthrock/Screenshots/readExcel_20_11_2020_04_24_39.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.plymouthrock.homepage.Homepagetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
